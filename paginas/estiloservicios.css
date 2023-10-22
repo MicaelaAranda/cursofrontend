@@ -1,0 +1,17 @@
+body{
+    height: 100%; 
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #F5F5F1; 
+  }
+  h1 {
+    font-family: inher'Noto Sans', sans-serifit;
+  font-size: 30px;
+  color: #a7d131;
+}
+
+img{
+     margin: 5px 10px; 
+    width: 400px;
+    height: 200px;
+    display: flexbox;
+}
